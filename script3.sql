@@ -1,6 +1,6 @@
 #Codigo adaptado em PostgreeSQL
 #PostgreSQL usa SERIAL para incremento automático.
-Tipo de dado DOUBLE: Em PostgreSQL, você pode continuar usando DOUBLE PRECISION ou NUMERIC.
+#Tipo de dado DOUBLE: Em PostgreSQL, você pode continuar usando DOUBLE PRECISION ou NUMERIC.
 
 CREATE TABLE TIPO_PRODUTO (
   ID SERIAL PRIMARY KEY,
