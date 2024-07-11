@@ -1,7 +1,7 @@
 #Codigo adaptado em MySQL
 
 #MySQL usa AUTO_INCREMENT em vez de AUTOINCREMENT.
-Tipo de dado DOUBLE: Em MySQL, você pode usar DECIMAL para valores monetários.
+#Tipo de dado DOUBLE: Em MySQL, você pode usar DECIMAL para valores monetários.
 
 CREATE TABLE TIPO_PRODUTO (
   ID INT PRIMARY KEY AUTO_INCREMENT,
